@@ -1,6 +1,6 @@
-# Welcome to Chair of Transportation Systems Engineering, Technical University of Munich 👋
+# Welcome to the Chair of Transportation Systems Engineering, Technical University of Munich 👋
 
-The chair of Transportation Systems Engineering focuses on performing transportation research surrounding aspects of modelling and simulation of transportation systems, implementation of data science and data analytics in transport and human factors analysis.
+The chair of Transportation Systems Engineering (TSE) focuses on performing transportation research surrounding aspects of modelling and simulation of transportation systems, implementation of data science and data analytics in transport and human factors analysis.
 
 Specifically, the TSE chair performs research on both multimodal and unimodal freight and passenger transport demand and supply modelling, allowing for contributions on optimisation, calibration and validation of transport models. In this direction, the application of Big Data acquisition and analysis is examined, as well as the use of Data-driven flexible models.
 
