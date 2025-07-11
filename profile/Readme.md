@@ -1,4 +1,4 @@
-# Welcome to [Chair of Transportation Systems Engineering, Technical Univeristy of Munich] 👋
+# Welcome to Chair of Transportation Systems Engineering, Technical University of Munich 👋
 
 We are a research group focused on Transportation Systems at TUM.
 
